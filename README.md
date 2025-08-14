@@ -1,6 +1,7 @@
 # slicingdesign
 
 Slicing Design
+Hasil build : https://drive.google.com/file/d/17wZEykt3pgdU7BYIM9IPqEMFnrT0dhG3/view?usp=sharing
 
 ## Getting Started
 
